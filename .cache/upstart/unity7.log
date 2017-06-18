@@ -189,3 +189,4 @@ INFO:checkbox.touch.qml:start_session on object created withcheckbox_touch.creat
 ERROR 2017-06-18 04:33:37 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
 ERROR 2017-06-18 04:39:29 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
 ERROR 2017-06-18 04:41:47 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-06-18 04:55:53 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
