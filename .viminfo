@@ -22,20 +22,23 @@
 # Registers:
 
 # File marks:
-'0  9  0  ~/.gitignore
-'1  5  0  ~/djangogirls/blog/admin.py
-'2  40  10  ~/djangogirls/mysite/settings.py
-'3  1  0  ~/djangogirls/mysite/blog
-'4  1  0  ~/djangogirls/blog/models.py
-'5  19  24  ~/djangogirls/blog/models.py
-'6  20  24  ~/djangogirls/mysite/models.py
-'7  41  0  ~/djangogirls/mysite/settings.py
-'8  122  44  ~/djangogirls/mysite/settings.py
-'9  1  0  ~/djangogirls/settings.py
+'0  8  0  ~/djangogirls/.gitignore
+'1  7  8  ~/.gitignore
+'2  9  0  ~/.gitignore
+'3  5  0  ~/djangogirls/blog/admin.py
+'4  40  10  ~/djangogirls/mysite/settings.py
+'5  1  0  ~/djangogirls/mysite/blog
+'6  1  0  ~/djangogirls/blog/models.py
+'7  19  24  ~/djangogirls/blog/models.py
+'8  20  24  ~/djangogirls/mysite/models.py
+'9  41  0  ~/djangogirls/mysite/settings.py
 
 # Jumplist (newest first):
--'  9  0  ~/.gitignore
+-'  8  0  ~/djangogirls/.gitignore
+-'  1  0  ~/djangogirls/.gitignore
+-'  7  8  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  9  0  ~/.gitignore
 -'  5  0  ~/djangogirls/blog/admin.py
 -'  1  0  ~/djangogirls/blog/admin.py
 -'  40  10  ~/djangogirls/mysite/settings.py
@@ -130,14 +133,17 @@
 -'  1  0  ~/djangogirls/settings.py
 -'  1  0  ~/djangogirls/settings.py
 -'  1  0  ~/djangogirls/settings.py
--'  20  24  ~/djangogirls/mysite/models.py
--'  1  0  ~/djangogirls/mysite/models.py
--'  1  0  ~/djangogirls/settings.py
 
 # History of marks within files (newest to oldest):
 
+> ~/djangogirls/.gitignore
+	"	8	0
+	^	8	0
+	.	7	9
+	+	7	9
+
 > ~/.gitignore
-	"	9	0
+	"	7	8
 	^	9	0
 	.	8	0
 	+	8	0

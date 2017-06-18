@@ -3,7 +3,7 @@ hangouts.google.com:HSTS	0	17335	1508671532720,1,1
 services.addons.mozilla.org:HSTS	0	17335	1529318944671,1,0
 services.addons.mozilla.org:HPKP	0	17335	1502966944672,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 versioncheck-bg.addons.mozilla.org:HSTS	0	17335	1497783244269,1,0
-shavar.services.mozilla.com:HSTS	0	17335	1529322080545,1,1
+shavar.services.mozilla.com:HSTS	0	17335	1529325681925,1,1
 self-repair.mozilla.org:HSTS	0	17335	1529318481624,1,1
 versioncheck-bg.addons.mozilla.org:HPKP	0	17335	1502966944269,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 normandy-cloudfront.cdn.mozilla.net:HPKP	0	17335	1497868881777,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
